@@ -7,5 +7,3 @@ def my_func():
 This is Comment
 """
 
-a = 1
-b = 2
